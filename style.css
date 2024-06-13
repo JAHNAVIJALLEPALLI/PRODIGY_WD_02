@@ -8,10 +8,10 @@
       justify-content: center;
       align-items: center;
       text-align: center;
-      background-image: url('clock image.jpeg');
+/*       background-image: url('clock image.jpeg'); */
       background-size: cover;
-      width: 100vh;
-      /* background:linear-gradient(45deg,rgb(56, 43, 237),rgb(183, 31, 150)); */
+      width: 200vh;
+      background:linear-gradient(45deg,rgb(56, 43, 237),rgb(183, 31, 150));
       height:100vh;
   }
   .container{
